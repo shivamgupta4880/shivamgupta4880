@@ -83,10 +83,6 @@
   <img src="https://leetcard.jacoblin.cool/shivamg4880?theme=dark&font=Fira%20Code&ext=heatmap" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamgupta4880&theme=tokyo-night&hide_border=true" />
-</p>
-
 ---
 
 <p align="center">
